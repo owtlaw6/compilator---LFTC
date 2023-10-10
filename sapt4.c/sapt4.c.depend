@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653948749 source:d:\programe\lftc\sapt4.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdbool.h>
+
